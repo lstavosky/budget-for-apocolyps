@@ -1,19 +1,20 @@
 body{
-  background-color:#522A05;
-  color:#F07300
+  background-color:#add8e6;
+  color:#237708;
+  font-family: 'Times New Roman', Times, serif;
+font: 50px;
 }
 h1 {
 font: 90px;
-color:#F8963A;
+color:#5D924C;
 text-allign: center;
 text-decoration: none;
 margin:0;
 padding:0;
 
 }
-#page2 {
-color:#F8963A
-
+#pages2 {
+  color:#5D924C;
 }
 #writings{
   font-family: 'Times New Roman', Times, serif;
@@ -35,10 +36,10 @@ nav li{
   position: relative;
 }
 nav a{
-  color:#C9A584;
+  color:#237708;
   text-decoration: none;
   text-transform: uppercase;
   font-size:14px}
 nav a:hover{
-color:#fffdd0
+color:white
 }
